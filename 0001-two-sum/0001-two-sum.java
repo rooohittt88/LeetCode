@@ -1,24 +1,35 @@
-import java.util.HashMap;
-import java.util.Map;
 
-class Solution {
-    public int[] twoSum(int[] nums, int target) {
-        // Map to store numbers and their corresponding array indices
-        Map<Integer, Integer> map = new HashMap<>();
-        
-        for (int i = 0; i < nums.length; i++) {
-            int complement = target - nums[i];
-            
-            // If the complement is already in the map, we found our pair
-            if (map.containsKey(complement)) {
-                return new int[] { map.get(complement), i };
-            }
-            
-            // Otherwise, store the current number and its index in the map
-            map.put(nums[i], i);
+import java.util.*;
+
+public class Twosum {
+
+    public static void main(String[] args) {
+        Scanner input = new Scanner(System.in);
+        System.out.print("Enter the target value: ");
+        int target = input.nextInt();
+
+        System.out.println("Enter size of array: ");
+        int arrsize = input.nextInt();
+        int[] arr = new int[arrsize];
+
+        System.out.println("Enter array elements: ");
+        for (int i = 0; i < arrsize; i++) {
+            int arrelement = input.nextInt();
+            arr[i] = arrelement;
         }
-        
-        // Return an empty array if no solution is found (guaranteed not to happen per constraints)
-        return new int[] {};
+
+        boolean found=false;
+        for (int i = 0; i < arrsize; i++) {
+            for (int j = i + 1; j < arrsize; j++) {
+                if ((arr[j] + arr[i]) == target) {
+                    int[] indices={i,j};
+                    System.out.println("target found at indices " + Arrays.toString(indices));
+                    found = true;
+                    break;
+                }
+            }
+            if(found) break;
+        }
+        input.close();
     }
 }
