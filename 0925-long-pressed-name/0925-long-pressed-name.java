@@ -2,7 +2,7 @@ class Solution {
     public boolean isLongPressedName(String name, String typed) {
        int i=0;
        int j=0;
-       for(int k=0;k<typed.length();k++){
+        while (j < typed.length()) {
         if(i < name.length() && name.charAt(i)==typed.charAt(j)){
             i++;
             j++;
