@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/rooohittt88/LeetCode/tree/master/0860-lemonade-change) |
 | [0922-sort-array-by-parity-ii](https://github.com/rooohittt88/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/rooohittt88/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rooohittt88/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rooohittt88/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rooohittt88/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/rooohittt88/LeetCode/tree/master/0414-third-maximum-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/rooohittt88/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [2733-neither-minimum-nor-maximum](https://github.com/rooohittt88/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Two Pointers
 |  |
 | ------- |
