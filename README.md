@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/rooohittt88/LeetCode/tree/master/0860-lemonade-change) |
 | [0922-sort-array-by-parity-ii](https://github.com/rooohittt88/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rooohittt88/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rooohittt88/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rooohittt88/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rooohittt88/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rooohittt88/LeetCode/tree/master/0013-roman-to-integer) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/rooohittt88/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 ## Math
 |  |
@@ -74,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/rooohittt88/LeetCode/tree/master/0414-third-maximum-number) |
 | [0922-sort-array-by-parity-ii](https://github.com/rooohittt88/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rooohittt88/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 ## Two Pointers
 |  |
@@ -88,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rooohittt88/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0925-long-pressed-name](https://github.com/rooohittt88/LeetCode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Greedy
 |  |
 | ------- |
@@ -113,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0704-binary-search](https://github.com/rooohittt88/LeetCode/tree/master/0704-binary-search) |
+| [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 ## Trie
 |  |
 | ------- |
