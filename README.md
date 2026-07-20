@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2469-convert-the-temperature](https://github.com/rooohittt88/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rooohittt88/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rooohittt88/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
+| [3360-stone-removal-game](https://github.com/rooohittt88/LeetCode/tree/master/3360-stone-removal-game) |
 ## String
 |  |
 | ------- |
@@ -143,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2553-separate-the-digits-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [3360-stone-removal-game](https://github.com/rooohittt88/LeetCode/tree/master/3360-stone-removal-game) |
 | [3701-compute-alternating-sum](https://github.com/rooohittt88/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
