@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2778-sum-of-squares-of-special-elements](https://github.com/rooohittt88/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rooohittt88/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rooohittt88/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rooohittt88/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3701-compute-alternating-sum](https://github.com/rooohittt88/LeetCode/tree/master/3701-compute-alternating-sum) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rooohittt88/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Hash Table
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rooohittt88/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rooohittt88/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3360-stone-removal-game](https://github.com/rooohittt88/LeetCode/tree/master/3360-stone-removal-game) |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rooohittt88/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## String
 |  |
 | ------- |
