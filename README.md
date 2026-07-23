@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/rooohittt88/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rooohittt88/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rooohittt88/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2367-number-of-arithmetic-triplets](https://github.com/rooohittt88/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/rooohittt88/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rooohittt88/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
@@ -44,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/rooohittt88/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/rooohittt88/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
+| [2367-number-of-arithmetic-triplets](https://github.com/rooohittt88/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Math
 |  |
 | ------- |
@@ -124,6 +126,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0925-long-pressed-name](https://github.com/rooohittt88/LeetCode/tree/master/0925-long-pressed-name) |
 | [0977-squares-of-a-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2367-number-of-arithmetic-triplets](https://github.com/rooohittt88/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 ## Greedy
 |  |
 | ------- |
@@ -158,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [2367-number-of-arithmetic-triplets](https://github.com/rooohittt88/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rooohittt88/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rooohittt88/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rooohittt88/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
