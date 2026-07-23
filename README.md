@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2553-separate-the-digits-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rooohittt88/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rooohittt88/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
+| [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/rooohittt88/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rooohittt88/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rooohittt88/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rooohittt88/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
