@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2733-neither-minimum-nor-maximum](https://github.com/rooohittt88/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rooohittt88/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/rooohittt88/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/rooohittt88/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rooohittt88/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rooohittt88/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rooohittt88/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/rooohittt88/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/rooohittt88/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rooohittt88/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
+| [3079-find-the-sum-of-encrypted-integers](https://github.com/rooohittt88/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rooohittt88/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rooohittt88/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3345-smallest-divisible-digit-product-i](https://github.com/rooohittt88/LeetCode/tree/master/3345-smallest-divisible-digit-product-i) |
