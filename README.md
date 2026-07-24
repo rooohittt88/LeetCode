@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2367-number-of-arithmetic-triplets](https://github.com/rooohittt88/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2574-left-and-right-sum-differences](https://github.com/rooohittt88/LeetCode/tree/master/2574-left-and-right-sum-differences) |
+| [2706-buy-two-chocolates](https://github.com/rooohittt88/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rooohittt88/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rooohittt88/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/rooohittt88/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0922-sort-array-by-parity-ii](https://github.com/rooohittt88/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
 | [0977-squares-of-a-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [2706-buy-two-chocolates](https://github.com/rooohittt88/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rooohittt88/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rooohittt88/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## Two Pointers
@@ -140,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rooohittt88/LeetCode/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/rooohittt88/LeetCode/tree/master/0860-lemonade-change) |
+| [2706-buy-two-chocolates](https://github.com/rooohittt88/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rooohittt88/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 ## String Matching
 |  |
