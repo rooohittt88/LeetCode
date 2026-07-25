@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1480-running-sum-of-1d-array](https://github.com/rooohittt88/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rooohittt88/LeetCode/tree/master/1512-number-of-good-pairs) |
+| [1550-three-consecutive-odds](https://github.com/rooohittt88/LeetCode/tree/master/1550-three-consecutive-odds) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rooohittt88/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rooohittt88/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2239-find-closest-number-to-zero](https://github.com/rooohittt88/LeetCode/tree/master/2239-find-closest-number-to-zero) |
