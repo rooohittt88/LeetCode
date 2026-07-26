@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/rooohittt88/LeetCode/tree/master/0326-power-of-three) |
 | [0509-fibonacci-number](https://github.com/rooohittt88/LeetCode/tree/master/0509-fibonacci-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/rooohittt88/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+| [1323-maximum-69-number](https://github.com/rooohittt88/LeetCode/tree/master/1323-maximum-69-number) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rooohittt88/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1512-number-of-good-pairs](https://github.com/rooohittt88/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/rooohittt88/LeetCode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0011-container-with-most-water](https://github.com/rooohittt88/LeetCode/tree/master/0011-container-with-most-water) |
 | [0860-lemonade-change](https://github.com/rooohittt88/LeetCode/tree/master/0860-lemonade-change) |
+| [1323-maximum-69-number](https://github.com/rooohittt88/LeetCode/tree/master/1323-maximum-69-number) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/rooohittt88/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/rooohittt88/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rooohittt88/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
