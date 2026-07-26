@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2413-smallest-even-multiple](https://github.com/rooohittt88/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/rooohittt88/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/rooohittt88/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
+| [2544-alternating-digit-sum](https://github.com/rooohittt88/LeetCode/tree/master/2544-alternating-digit-sum) |
 | [2769-find-the-maximum-achievable-number](https://github.com/rooohittt88/LeetCode/tree/master/2769-find-the-maximum-achievable-number) |
 | [2894-divisible-and-non-divisible-sums-difference](https://github.com/rooohittt88/LeetCode/tree/master/2894-divisible-and-non-divisible-sums-difference) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/rooohittt88/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
