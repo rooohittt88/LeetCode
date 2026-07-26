@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1822-sign-of-the-product-of-an-array](https://github.com/rooohittt88/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rooohittt88/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2119-a-number-after-a-double-reversal](https://github.com/rooohittt88/LeetCode/tree/master/2119-a-number-after-a-double-reversal) |
+| [2169-count-operations-to-obtain-zero](https://github.com/rooohittt88/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2413-smallest-even-multiple](https://github.com/rooohittt88/LeetCode/tree/master/2413-smallest-even-multiple) |
 | [2469-convert-the-temperature](https://github.com/rooohittt88/LeetCode/tree/master/2469-convert-the-temperature) |
 | [2481-minimum-cuts-to-divide-a-circle](https://github.com/rooohittt88/LeetCode/tree/master/2481-minimum-cuts-to-divide-a-circle) |
@@ -191,6 +192,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2169-count-operations-to-obtain-zero](https://github.com/rooohittt88/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3360-stone-removal-game](https://github.com/rooohittt88/LeetCode/tree/master/3360-stone-removal-game) |
 | [3701-compute-alternating-sum](https://github.com/rooohittt88/LeetCode/tree/master/3701-compute-alternating-sum) |
