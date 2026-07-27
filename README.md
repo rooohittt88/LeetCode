@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rooohittt88/LeetCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/rooohittt88/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/rooohittt88/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1550-three-consecutive-odds](https://github.com/rooohittt88/LeetCode/tree/master/1550-three-consecutive-odds) |
@@ -134,6 +135,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0977-squares-of-a-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rooohittt88/LeetCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2706-buy-two-chocolates](https://github.com/rooohittt88/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rooohittt88/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rooohittt88/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -238,4 +240,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1051-height-checker](https://github.com/rooohittt88/LeetCode/tree/master/1051-height-checker) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
