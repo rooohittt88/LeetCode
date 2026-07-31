@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rooohittt88/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/rooohittt88/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/rooohittt88/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rooohittt88/LeetCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/rooohittt88/LeetCode/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/rooohittt88/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rooohittt88/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rooohittt88/LeetCode/tree/master/0013-roman-to-integer) |
+| [0268-missing-number](https://github.com/rooohittt88/LeetCode/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/rooohittt88/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/rooohittt88/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
@@ -76,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0050-powx-n](https://github.com/rooohittt88/LeetCode/tree/master/0050-powx-n) |
 | [0189-rotate-array](https://github.com/rooohittt88/LeetCode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/rooohittt88/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rooohittt88/LeetCode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/rooohittt88/LeetCode/tree/master/0326-power-of-three) |
 | [0507-perfect-number](https://github.com/rooohittt88/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/rooohittt88/LeetCode/tree/master/0509-fibonacci-number) |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/rooohittt88/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rooohittt88/LeetCode/tree/master/0231-power-of-two) |
+| [0268-missing-number](https://github.com/rooohittt88/LeetCode/tree/master/0268-missing-number) |
 | [0476-number-complement](https://github.com/rooohittt88/LeetCode/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rooohittt88/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 ## Sorting
@@ -152,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rooohittt88/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0268-missing-number](https://github.com/rooohittt88/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/rooohittt88/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rooohittt88/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0881-boats-to-save-people](https://github.com/rooohittt88/LeetCode/tree/master/0881-boats-to-save-people) |
@@ -217,6 +222,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/rooohittt88/LeetCode/tree/master/0268-missing-number) |
 | [0633-sum-of-square-numbers](https://github.com/rooohittt88/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/rooohittt88/LeetCode/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
