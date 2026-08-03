@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3000-maximum-area-of-longest-diagonal-rectangle](https://github.com/rooohittt88/LeetCode/tree/master/3000-maximum-area-of-longest-diagonal-rectangle) |
 | [3065-minimum-operations-to-exceed-threshold-value-i](https://github.com/rooohittt88/LeetCode/tree/master/3065-minimum-operations-to-exceed-threshold-value-i) |
 | [3079-find-the-sum-of-encrypted-integers](https://github.com/rooohittt88/LeetCode/tree/master/3079-find-the-sum-of-encrypted-integers) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/rooohittt88/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/rooohittt88/LeetCode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/rooohittt88/LeetCode/tree/master/3300-minimum-element-after-replacement-with-digit-sum) |
 | [3423-maximum-difference-between-adjacent-elements-in-a-circular-array](https://github.com/rooohittt88/LeetCode/tree/master/3423-maximum-difference-between-adjacent-elements-in-a-circular-array) |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rooohittt88/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rooohittt88/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2540-minimum-common-value](https://github.com/rooohittt88/LeetCode/tree/master/2540-minimum-common-value) |
+| [3162-find-the-number-of-good-pairs-i](https://github.com/rooohittt88/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3790-smallest-all-ones-multiple](https://github.com/rooohittt88/LeetCode/tree/master/3790-smallest-all-ones-multiple) |
 ## Math
 |  |
