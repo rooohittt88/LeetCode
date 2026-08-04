@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1512-number-of-good-pairs](https://github.com/rooohittt88/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [1534-count-good-triplets](https://github.com/rooohittt88/LeetCode/tree/master/1534-count-good-triplets) |
 | [1550-three-consecutive-odds](https://github.com/rooohittt88/LeetCode/tree/master/1550-three-consecutive-odds) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rooohittt88/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/rooohittt88/LeetCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rooohittt88/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rooohittt88/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
@@ -141,6 +142,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0917-reverse-only-letters](https://github.com/rooohittt88/LeetCode/tree/master/0917-reverse-only-letters) |
 | [0925-long-pressed-name](https://github.com/rooohittt88/LeetCode/tree/master/0925-long-pressed-name) |
 | [1108-defanging-an-ip-address](https://github.com/rooohittt88/LeetCode/tree/master/1108-defanging-an-ip-address) |
+| [1662-check-if-two-string-arrays-are-equivalent](https://github.com/rooohittt88/LeetCode/tree/master/1662-check-if-two-string-arrays-are-equivalent) |
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rooohittt88/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/rooohittt88/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rooohittt88/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
