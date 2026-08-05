@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/rooohittt88/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rooohittt88/LeetCode/tree/master/0013-roman-to-integer) |
+| [0242-valid-anagram](https://github.com/rooohittt88/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rooohittt88/LeetCode/tree/master/0268-missing-number) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [1512-number-of-good-pairs](https://github.com/rooohittt88/LeetCode/tree/master/1512-number-of-good-pairs) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/rooohittt88/LeetCode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rooohittt88/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0125-valid-palindrome](https://github.com/rooohittt88/LeetCode/tree/master/0125-valid-palindrome) |
+| [0242-valid-anagram](https://github.com/rooohittt88/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rooohittt88/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rooohittt88/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0434-number-of-segments-in-a-string](https://github.com/rooohittt88/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/rooohittt88/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/rooohittt88/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rooohittt88/LeetCode/tree/master/0268-missing-number) |
 | [0414-third-maximum-number](https://github.com/rooohittt88/LeetCode/tree/master/0414-third-maximum-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rooohittt88/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
