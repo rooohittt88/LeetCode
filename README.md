@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rooohittt88/LeetCode/tree/master/0011-container-with-most-water) |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rooohittt88/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/rooohittt88/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/rooohittt88/LeetCode/tree/master/0075-sort-colors) |
@@ -347,4 +348,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rooohittt88/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
+## Linked List
+|  |
+| ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/rooohittt88/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 <!---LeetCode Topics End-->
