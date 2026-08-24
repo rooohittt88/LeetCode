@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/rooohittt88/LeetCode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/rooohittt88/LeetCode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/rooohittt88/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rooohittt88/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0414-third-maximum-number](https://github.com/rooohittt88/LeetCode/tree/master/0414-third-maximum-number) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rooohittt88/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/rooohittt88/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -192,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/rooohittt88/LeetCode/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/rooohittt88/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rooohittt88/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/rooohittt88/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0476-number-complement](https://github.com/rooohittt88/LeetCode/tree/master/0476-number-complement) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/rooohittt88/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [2683-neighboring-bitwise-xor](https://github.com/rooohittt88/LeetCode/tree/master/2683-neighboring-bitwise-xor) |
@@ -236,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/rooohittt88/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0189-rotate-array](https://github.com/rooohittt88/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rooohittt88/LeetCode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/rooohittt88/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/rooohittt88/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rooohittt88/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/rooohittt88/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
@@ -279,6 +282,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0268-missing-number](https://github.com/rooohittt88/LeetCode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/rooohittt88/LeetCode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0633-sum-of-square-numbers](https://github.com/rooohittt88/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0704-binary-search](https://github.com/rooohittt88/LeetCode/tree/master/0704-binary-search) |
@@ -379,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/rooohittt88/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0287-find-the-duplicate-number](https://github.com/rooohittt88/LeetCode/tree/master/0287-find-the-duplicate-number) |
 ## Minimax
 |  |
 | ------- |
@@ -391,4 +396,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/rooohittt88/LeetCode/tree/master/0292-nim-game) |
+## Pigeonhole Principle
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/rooohittt88/LeetCode/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
