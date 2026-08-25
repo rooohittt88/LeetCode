@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/rooohittt88/LeetCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3683-earliest-time-to-finish-one-task](https://github.com/rooohittt88/LeetCode/tree/master/3683-earliest-time-to-finish-one-task) |
 | [3701-compute-alternating-sum](https://github.com/rooohittt88/LeetCode/tree/master/3701-compute-alternating-sum) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rooohittt88/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rooohittt88/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3861-minimum-capacity-box](https://github.com/rooohittt88/LeetCode/tree/master/3861-minimum-capacity-box) |
 ## Hash Table
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2540-minimum-common-value](https://github.com/rooohittt88/LeetCode/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/rooohittt88/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/rooohittt88/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
+| [3718-smallest-missing-multiple-of-k](https://github.com/rooohittt88/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3790-smallest-all-ones-multiple](https://github.com/rooohittt88/LeetCode/tree/master/3790-smallest-all-ones-multiple) |
 ## Math
 |  |
