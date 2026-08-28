@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rooohittt88/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0485-max-consecutive-ones](https://github.com/rooohittt88/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0540-single-element-in-a-sorted-array) |
+| [0605-can-place-flowers](https://github.com/rooohittt88/LeetCode/tree/master/0605-can-place-flowers) |
 | [0628-maximum-product-of-three-numbers](https://github.com/rooohittt88/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0643-maximum-average-subarray-i](https://github.com/rooohittt88/LeetCode/tree/master/0643-maximum-average-subarray-i) |
 | [0704-binary-search](https://github.com/rooohittt88/LeetCode/tree/master/0704-binary-search) |
@@ -261,6 +262,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/rooohittt88/LeetCode/tree/master/0011-container-with-most-water) |
+| [0605-can-place-flowers](https://github.com/rooohittt88/LeetCode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/rooohittt88/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/rooohittt88/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/rooohittt88/LeetCode/tree/master/1323-maximum-69-number) |
