@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3718-smallest-missing-multiple-of-k](https://github.com/rooohittt88/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rooohittt88/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
 | [3861-minimum-capacity-box](https://github.com/rooohittt88/LeetCode/tree/master/3861-minimum-capacity-box) |
+| [3866-first-unique-even-element](https://github.com/rooohittt88/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Hash Table
 |  |
 | ------- |
@@ -104,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3162-find-the-number-of-good-pairs-i](https://github.com/rooohittt88/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/rooohittt88/LeetCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3790-smallest-all-ones-multiple](https://github.com/rooohittt88/LeetCode/tree/master/3790-smallest-all-ones-multiple) |
+| [3866-first-unique-even-element](https://github.com/rooohittt88/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Math
 |  |
 | ------- |
@@ -337,6 +339,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/rooohittt88/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/rooohittt88/LeetCode/tree/master/3467-transform-array-by-parity) |
+| [3866-first-unique-even-element](https://github.com/rooohittt88/LeetCode/tree/master/3866-first-unique-even-element) |
 ## Sliding Window
 |  |
 | ------- |
