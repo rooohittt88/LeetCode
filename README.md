@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/rooohittt88/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/rooohittt88/LeetCode/tree/master/0136-single-number) |
 | [0152-maximum-product-subarray](https://github.com/rooohittt88/LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0169-majority-element](https://github.com/rooohittt88/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rooohittt88/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rooohittt88/LeetCode/tree/master/0198-house-robber) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -93,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/rooohittt88/LeetCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/rooohittt88/LeetCode/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/rooohittt88/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0169-majority-element](https://github.com/rooohittt88/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/rooohittt88/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rooohittt88/LeetCode/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/rooohittt88/LeetCode/tree/master/0268-missing-number) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/rooohittt88/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/rooohittt88/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rooohittt88/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/rooohittt88/LeetCode/tree/master/0242-valid-anagram) |
@@ -347,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/rooohittt88/LeetCode/tree/master/0169-majority-element) |
 | [1512-number-of-good-pairs](https://github.com/rooohittt88/LeetCode/tree/master/1512-number-of-good-pairs) |
 | [3467-transform-array-by-parity](https://github.com/rooohittt88/LeetCode/tree/master/3467-transform-array-by-parity) |
 | [3866-first-unique-even-element](https://github.com/rooohittt88/LeetCode/tree/master/3866-first-unique-even-element) |
@@ -382,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rooohittt88/LeetCode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/rooohittt88/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rooohittt88/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Quickselect
@@ -424,4 +429,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/rooohittt88/LeetCode/tree/master/0287-find-the-duplicate-number) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/rooohittt88/LeetCode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
