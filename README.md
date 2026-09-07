@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/rooohittt88/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/rooohittt88/LeetCode/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/rooohittt88/LeetCode/tree/master/0326-power-of-three) |
+| [0415-add-strings](https://github.com/rooohittt88/LeetCode/tree/master/0415-add-strings) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/rooohittt88/LeetCode/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0507-perfect-number](https://github.com/rooohittt88/LeetCode/tree/master/0507-perfect-number) |
 | [0509-fibonacci-number](https://github.com/rooohittt88/LeetCode/tree/master/0509-fibonacci-number) |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/rooohittt88/LeetCode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/rooohittt88/LeetCode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/rooohittt88/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
+| [0415-add-strings](https://github.com/rooohittt88/LeetCode/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/rooohittt88/LeetCode/tree/master/0434-number-of-segments-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/rooohittt88/LeetCode/tree/master/0459-repeated-substring-pattern) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/rooohittt88/LeetCode/tree/master/0521-longest-uncommon-subsequence-i) |
@@ -331,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0415-add-strings](https://github.com/rooohittt88/LeetCode/tree/master/0415-add-strings) |
 | [1929-concatenation-of-array](https://github.com/rooohittt88/LeetCode/tree/master/1929-concatenation-of-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rooohittt88/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2169-count-operations-to-obtain-zero](https://github.com/rooohittt88/LeetCode/tree/master/2169-count-operations-to-obtain-zero) |
