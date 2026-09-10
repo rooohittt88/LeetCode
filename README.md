@@ -175,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/rooohittt88/LeetCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3783-mirror-distance-of-an-integer](https://github.com/rooohittt88/LeetCode/tree/master/3783-mirror-distance-of-an-integer) |
 | [3790-smallest-all-ones-multiple](https://github.com/rooohittt88/LeetCode/tree/master/3790-smallest-all-ones-multiple) |
+| [3870-count-commas-in-range](https://github.com/rooohittt88/LeetCode/tree/master/3870-count-commas-in-range) |
 ## String
 |  |
 | ------- |
