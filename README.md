@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/rooohittt88/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/rooohittt88/LeetCode/tree/master/0189-rotate-array) |
 | [0198-house-robber](https://github.com/rooohittt88/LeetCode/tree/master/0198-house-robber) |
+| [0204-count-primes](https://github.com/rooohittt88/LeetCode/tree/master/0204-count-primes) |
 | [0213-house-robber-ii](https://github.com/rooohittt88/LeetCode/tree/master/0213-house-robber-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rooohittt88/LeetCode/tree/master/0217-contains-duplicate) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0168-excel-sheet-column-title](https://github.com/rooohittt88/LeetCode/tree/master/0168-excel-sheet-column-title) |
 | [0171-excel-sheet-column-number](https://github.com/rooohittt88/LeetCode/tree/master/0171-excel-sheet-column-number) |
 | [0189-rotate-array](https://github.com/rooohittt88/LeetCode/tree/master/0189-rotate-array) |
+| [0204-count-primes](https://github.com/rooohittt88/LeetCode/tree/master/0204-count-primes) |
 | [0231-power-of-two](https://github.com/rooohittt88/LeetCode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/rooohittt88/LeetCode/tree/master/0268-missing-number) |
 | [0292-nim-game](https://github.com/rooohittt88/LeetCode/tree/master/0292-nim-game) |
@@ -330,6 +332,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rooohittt88/LeetCode/tree/master/0204-count-primes) |
 | [1534-count-good-triplets](https://github.com/rooohittt88/LeetCode/tree/master/1534-count-good-triplets) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rooohittt88/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2778-sum-of-squares-of-special-elements](https://github.com/rooohittt88/LeetCode/tree/master/2778-sum-of-squares-of-special-elements) |
@@ -349,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Number Theory
 |  |
 | ------- |
+| [0204-count-primes](https://github.com/rooohittt88/LeetCode/tree/master/0204-count-primes) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/rooohittt88/LeetCode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2413-smallest-even-multiple](https://github.com/rooohittt88/LeetCode/tree/master/2413-smallest-even-multiple) |
 ## Prefix Sum
@@ -445,4 +449,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/rooohittt88/LeetCode/tree/master/0169-majority-element) |
+## Primality Test
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rooohittt88/LeetCode/tree/master/0204-count-primes) |
+## Sieve Theory
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rooohittt88/LeetCode/tree/master/0204-count-primes) |
+## Prime Number Sieve
+|  |
+| ------- |
+| [0204-count-primes](https://github.com/rooohittt88/LeetCode/tree/master/0204-count-primes) |
 <!---LeetCode Topics End-->
