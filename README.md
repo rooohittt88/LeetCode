@@ -208,6 +208,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rooohittt88/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/rooohittt88/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rooohittt88/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
+| [3498-reverse-degree-of-a-string](https://github.com/rooohittt88/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rooohittt88/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
 ## Dynamic Programming
 |  |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2549-count-distinct-numbers-on-board](https://github.com/rooohittt88/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [2553-separate-the-digits-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3360-stone-removal-game](https://github.com/rooohittt88/LeetCode/tree/master/3360-stone-removal-game) |
+| [3498-reverse-degree-of-a-string](https://github.com/rooohittt88/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/rooohittt88/LeetCode/tree/master/3701-compute-alternating-sum) |
 ## Number Theory
 |  |
