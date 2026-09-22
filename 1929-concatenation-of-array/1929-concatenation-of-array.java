@@ -4,10 +4,11 @@ class Solution {
         int[] ans=new int[2*n];
         for(int i=0;i<n;i++){
             ans[i]=nums[i];
-            ans[i+n]=nums[i];
-            // if(i>=n){
-            //     i=0;
-            // }
+        }
+        int j=0;
+        for(int i=n;i<2*n;i++){
+            ans[i]=nums[j];
+            j++;
         }
         return ans;
     }
