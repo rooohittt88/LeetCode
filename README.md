@@ -241,6 +241,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0075-sort-colors](https://github.com/rooohittt88/LeetCode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0088-merge-sorted-array) |
+| [0148-sort-list](https://github.com/rooohittt88/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rooohittt88/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/rooohittt88/LeetCode/tree/master/0217-contains-duplicate) |
@@ -277,6 +278,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/rooohittt88/LeetCode/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/rooohittt88/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/rooohittt88/LeetCode/tree/master/0148-sort-list) |
 | [0189-rotate-array](https://github.com/rooohittt88/LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/rooohittt88/LeetCode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/rooohittt88/LeetCode/tree/master/0287-find-the-duplicate-number) |
@@ -416,6 +418,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/rooohittt88/LeetCode/tree/master/0053-maximum-subarray) |
+| [0148-sort-list](https://github.com/rooohittt88/LeetCode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/rooohittt88/LeetCode/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/rooohittt88/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/rooohittt88/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
@@ -439,6 +442,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/rooohittt88/LeetCode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/rooohittt88/LeetCode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0141-linked-list-cycle](https://github.com/rooohittt88/LeetCode/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/rooohittt88/LeetCode/tree/master/0148-sort-list) |
 | [0203-remove-linked-list-elements](https://github.com/rooohittt88/LeetCode/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/rooohittt88/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0876-middle-of-the-linked-list](https://github.com/rooohittt88/LeetCode/tree/master/0876-middle-of-the-linked-list) |
@@ -484,4 +488,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/rooohittt88/LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/rooohittt88/LeetCode/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
