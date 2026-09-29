@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1935-maximum-number-of-words-you-can-type](https://github.com/rooohittt88/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rooohittt88/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rooohittt88/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2405-optimal-partition-of-string](https://github.com/rooohittt88/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2540-minimum-common-value](https://github.com/rooohittt88/LeetCode/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/rooohittt88/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/rooohittt88/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -223,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1812-determine-color-of-a-chessboard-square](https://github.com/rooohittt88/LeetCode/tree/master/1812-determine-color-of-a-chessboard-square) |
 | [1935-maximum-number-of-words-you-can-type](https://github.com/rooohittt88/LeetCode/tree/master/1935-maximum-number-of-words-you-can-type) |
 | [2390-removing-stars-from-a-string](https://github.com/rooohittt88/LeetCode/tree/master/2390-removing-stars-from-a-string) |
+| [2405-optimal-partition-of-string](https://github.com/rooohittt88/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [3274-check-if-two-chessboard-squares-have-the-same-color](https://github.com/rooohittt88/LeetCode/tree/master/3274-check-if-two-chessboard-squares-have-the-same-color) |
 | [3498-reverse-degree-of-a-string](https://github.com/rooohittt88/LeetCode/tree/master/3498-reverse-degree-of-a-string) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/rooohittt88/LeetCode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -325,6 +327,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/rooohittt88/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/rooohittt88/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/rooohittt88/LeetCode/tree/master/1323-maximum-69-number) |
+| [2405-optimal-partition-of-string](https://github.com/rooohittt88/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2439-minimize-maximum-of-array](https://github.com/rooohittt88/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/rooohittt88/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/rooohittt88/LeetCode/tree/master/2706-buy-two-chocolates) |
