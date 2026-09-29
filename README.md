@@ -76,6 +76,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rooohittt88/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2239-find-closest-number-to-zero](https://github.com/rooohittt88/LeetCode/tree/master/2239-find-closest-number-to-zero) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rooohittt88/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2439-minimize-maximum-of-array](https://github.com/rooohittt88/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rooohittt88/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/rooohittt88/LeetCode/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/rooohittt88/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -239,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1025-divisor-game](https://github.com/rooohittt88/LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/rooohittt88/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/rooohittt88/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
+| [2439-minimize-maximum-of-array](https://github.com/rooohittt88/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -323,6 +325,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0860-lemonade-change](https://github.com/rooohittt88/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/rooohittt88/LeetCode/tree/master/0881-boats-to-save-people) |
 | [1323-maximum-69-number](https://github.com/rooohittt88/LeetCode/tree/master/1323-maximum-69-number) |
+| [2439-minimize-maximum-of-array](https://github.com/rooohittt88/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2656-maximum-sum-with-exactly-k-elements](https://github.com/rooohittt88/LeetCode/tree/master/2656-maximum-sum-with-exactly-k-elements) |
 | [2706-buy-two-chocolates](https://github.com/rooohittt88/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [3745-maximize-expression-of-three-elements](https://github.com/rooohittt88/LeetCode/tree/master/3745-maximize-expression-of-three-elements) |
@@ -361,6 +364,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0704-binary-search](https://github.com/rooohittt88/LeetCode/tree/master/0704-binary-search) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/rooohittt88/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
+| [2439-minimize-maximum-of-array](https://github.com/rooohittt88/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2540-minimum-common-value](https://github.com/rooohittt88/LeetCode/tree/master/2540-minimum-common-value) |
 ## Trie
 |  |
@@ -400,6 +404,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0724-find-pivot-index](https://github.com/rooohittt88/LeetCode/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/rooohittt88/LeetCode/tree/master/1480-running-sum-of-1d-array) |
 | [1588-sum-of-all-odd-length-subarrays](https://github.com/rooohittt88/LeetCode/tree/master/1588-sum-of-all-odd-length-subarrays) |
+| [2439-minimize-maximum-of-array](https://github.com/rooohittt88/LeetCode/tree/master/2439-minimize-maximum-of-array) |
 | [2574-left-and-right-sum-differences](https://github.com/rooohittt88/LeetCode/tree/master/2574-left-and-right-sum-differences) |
 ## Counting
 |  |
