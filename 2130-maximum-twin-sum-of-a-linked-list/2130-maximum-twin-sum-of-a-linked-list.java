@@ -16,6 +16,7 @@ class Solution {
             temp=temp.next;
             cunt++;
         }
+
         temp=head;
         int[] arr=new int[cunt];
         for(int i=0;i<cunt;i++){
@@ -26,6 +27,7 @@ class Solution {
         int left=0;
         int right=arr.length-1;
         int max=0;
+        
         while(left<right){
             max=Math.max(max,arr[left]+arr[right]);
             left++;
