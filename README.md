@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/rooohittt88/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rooohittt88/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2439-minimize-maximum-of-array](https://github.com/rooohittt88/LeetCode/tree/master/2439-minimize-maximum-of-array) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rooohittt88/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2535-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/rooohittt88/LeetCode/tree/master/2535-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2540-minimum-common-value](https://github.com/rooohittt88/LeetCode/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/rooohittt88/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
@@ -133,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rooohittt88/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rooohittt88/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
 | [2405-optimal-partition-of-string](https://github.com/rooohittt88/LeetCode/tree/master/2405-optimal-partition-of-string) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rooohittt88/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/rooohittt88/LeetCode/tree/master/2540-minimum-common-value) |
 | [2549-count-distinct-numbers-on-board](https://github.com/rooohittt88/LeetCode/tree/master/2549-count-distinct-numbers-on-board) |
 | [3162-find-the-number-of-good-pairs-i](https://github.com/rooohittt88/LeetCode/tree/master/3162-find-the-number-of-good-pairs-i) |
@@ -296,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2089-find-target-indices-after-sorting-array](https://github.com/rooohittt88/LeetCode/tree/master/2089-find-target-indices-after-sorting-array) |
 | [2154-keep-multiplying-found-values-by-two](https://github.com/rooohittt88/LeetCode/tree/master/2154-keep-multiplying-found-values-by-two) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/rooohittt88/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rooohittt88/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2706-buy-two-chocolates](https://github.com/rooohittt88/LeetCode/tree/master/2706-buy-two-chocolates) |
 | [2733-neither-minimum-nor-maximum](https://github.com/rooohittt88/LeetCode/tree/master/2733-neither-minimum-nor-maximum) |
 | [3467-transform-array-by-parity](https://github.com/rooohittt88/LeetCode/tree/master/3467-transform-array-by-parity) |
@@ -338,6 +341,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/rooohittt88/LeetCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/rooohittt88/LeetCode/tree/master/2300-successful-pairs-of-spells-and-potions) |
 | [2367-number-of-arithmetic-triplets](https://github.com/rooohittt88/LeetCode/tree/master/2367-number-of-arithmetic-triplets) |
+| [2441-largest-positive-integer-that-exists-with-its-negative](https://github.com/rooohittt88/LeetCode/tree/master/2441-largest-positive-integer-that-exists-with-its-negative) |
 | [2540-minimum-common-value](https://github.com/rooohittt88/LeetCode/tree/master/2540-minimum-common-value) |
 ## Greedy
 |  |
