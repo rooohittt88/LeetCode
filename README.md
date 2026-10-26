@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0896-monotonic-array](https://github.com/rooohittt88/LeetCode/tree/master/0896-monotonic-array) |
 | [0905-sort-array-by-parity](https://github.com/rooohittt88/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rooohittt88/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/rooohittt88/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rooohittt88/LeetCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -172,6 +173,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0628-maximum-product-of-three-numbers](https://github.com/rooohittt88/LeetCode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0633-sum-of-square-numbers](https://github.com/rooohittt88/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [0877-stone-game](https://github.com/rooohittt88/LeetCode/tree/master/0877-stone-game) |
+| [0976-largest-perimeter-triangle](https://github.com/rooohittt88/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1025-divisor-game](https://github.com/rooohittt88/LeetCode/tree/master/1025-divisor-game) |
 | [1137-n-th-tribonacci-number](https://github.com/rooohittt88/LeetCode/tree/master/1137-n-th-tribonacci-number) |
 | [1227-airplane-seat-assignment-probability](https://github.com/rooohittt88/LeetCode/tree/master/1227-airplane-seat-assignment-probability) |
@@ -298,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0881-boats-to-save-people](https://github.com/rooohittt88/LeetCode/tree/master/0881-boats-to-save-people) |
 | [0905-sort-array-by-parity](https://github.com/rooohittt88/LeetCode/tree/master/0905-sort-array-by-parity) |
 | [0922-sort-array-by-parity-ii](https://github.com/rooohittt88/LeetCode/tree/master/0922-sort-array-by-parity-ii) |
+| [0976-largest-perimeter-triangle](https://github.com/rooohittt88/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [0977-squares-of-a-sorted-array](https://github.com/rooohittt88/LeetCode/tree/master/0977-squares-of-a-sorted-array) |
 | [1051-height-checker](https://github.com/rooohittt88/LeetCode/tree/master/1051-height-checker) |
 | [1346-check-if-n-and-its-double-exist](https://github.com/rooohittt88/LeetCode/tree/master/1346-check-if-n-and-its-double-exist) |
@@ -362,6 +365,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0605-can-place-flowers](https://github.com/rooohittt88/LeetCode/tree/master/0605-can-place-flowers) |
 | [0860-lemonade-change](https://github.com/rooohittt88/LeetCode/tree/master/0860-lemonade-change) |
 | [0881-boats-to-save-people](https://github.com/rooohittt88/LeetCode/tree/master/0881-boats-to-save-people) |
+| [0976-largest-perimeter-triangle](https://github.com/rooohittt88/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1323-maximum-69-number](https://github.com/rooohittt88/LeetCode/tree/master/1323-maximum-69-number) |
 | [2405-optimal-partition-of-string](https://github.com/rooohittt88/LeetCode/tree/master/2405-optimal-partition-of-string) |
 | [2439-minimize-maximum-of-array](https://github.com/rooohittt88/LeetCode/tree/master/2439-minimize-maximum-of-array) |
@@ -511,6 +515,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Quicksort
 |  |
 | ------- |
+| [0976-largest-perimeter-triangle](https://github.com/rooohittt88/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 | [1913-maximum-product-difference-between-two-pairs](https://github.com/rooohittt88/LeetCode/tree/master/1913-maximum-product-difference-between-two-pairs) |
 ## Linked List
 |  |
@@ -648,4 +653,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0225-implement-stack-using-queues](https://github.com/rooohittt88/LeetCode/tree/master/0225-implement-stack-using-queues) |
 | [0232-implement-queue-using-stacks](https://github.com/rooohittt88/LeetCode/tree/master/0232-implement-queue-using-stacks) |
+## Polygons
+|  |
+| ------- |
+| [0976-largest-perimeter-triangle](https://github.com/rooohittt88/LeetCode/tree/master/0976-largest-perimeter-triangle) |
 <!---LeetCode Topics End-->
